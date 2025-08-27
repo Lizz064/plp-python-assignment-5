@@ -1,8 +1,8 @@
 
 # PLP Python Assignment 5 
 
-This repository contains solutions for PLP Python Assignment 5**.  
-The assignment focuses on Object-Oriented Programming (OOP) concepts** in Python.
+This repository contains solutions for PLP Python Assignment 5.  
+The assignment focuses on Object-Oriented Programming (OOP) concepts in Python.
 
 
  Activities
